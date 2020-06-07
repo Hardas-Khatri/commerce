@@ -1,0 +1,153 @@
+body
+    {
+     margin:0px;
+	 padding:0px;
+	 background:#CCC;
+	
+	}
+
+	
+#subhead
+         {
+	    height:50px;
+		width:100%;
+		background-color:rgba(127,56,57,1.00);
+		float:left;
+		 }
+		 
+#subhead p
+         {
+			 
+		color:#FFF;
+		font-size:20px;
+		margin:10px;
+		float:left;
+		 }
+.navbar ul li a 
+               {
+				   margin-left:50px;
+				 
+			   }
+
+nav ul li a
+{
+	 font-size:20px;
+	
+
+}
+nav ul li a:hover
+{
+	                background-color:#900;
+				   transition:all .5s ease;
+	
+}		 		 
+		 
+#subhead ul  li
+                 {
+					 text-decoration:none;
+					 display:inline;
+					 float:right;
+					 font-size:20px;
+					 color:#FFF;
+					 margin-left:50px;
+					 padding-right:10px;
+					 padding-bottom:25px;
+					 
+				 }
+/*==========sub header  end============ */
+
+/*========main header=======strt==*/				 
+		 		 
+#header
+       {
+		   height:220px;
+		   width:100%;
+		   background-color:#009;
+		   float:left;
+	   }
+	   
+/*==========main header========end======*/	
+
+/*=====================nav strt=========*/   
+#nav
+         {
+	    height:50px;
+		width:100%;
+		background-color:rgba(127,56,57,1.00);
+		float:left;
+		 }
+#nav li 
+         {
+			  display:inline;
+			  float:left;
+			  text-decoration:none;
+			  color:#FFF;
+			  font-size:25px;
+			  margin-left:125px;
+			  margin-top:10px;
+		 }
+#nav li:hover
+               {
+				   background-color:#900;
+				   transition:all .5s ease;
+			   }
+			 
+/*============nav end====================*/		
+
+h3{
+  font-family: Calibri; 
+  font-size: 25pt;         
+  font-style: normal; 
+  font-weight: bold; 
+  color:SlateBlue;
+  text-align: center; 
+  text-decoration: underline
+}
+
+table{
+  font-family: Calibri; 
+  color:white; 
+  font-size: 11pt; 
+  font-style: normal;
+  font-weight: bold;
+  text-align:; 
+  background-color:rgba(127,56,57,1.00);
+  border-collapse: collapse; 
+  
+}
+table.inner{
+  border: 0px
+}
+footer
+         {
+	       height:100px;
+	        width:100%;
+	       background-color:rgba(127,56,57,1.00);
+		   float:left;
+	      }	
+footer  p
+         {
+			 color:#FFF;
+			 font-size:24px;
+			 font-weight:bold;
+			 margin-left:20px;
+			 text-align:center;
+			 margin-top:25px;
+		 }
+		 
+footer p:hover
+                {
+					color:#900;
+				   transition:all .5s ease;
+     		 
+				}
+
+
+.hamza
+        {
+			height:540px;
+			width:100%;
+			background-color:#633;
+			float:left;
+		}
+				
